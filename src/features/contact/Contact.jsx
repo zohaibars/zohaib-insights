@@ -46,10 +46,10 @@ export default function Contact() {
 
     emailjs
       .send(
-        "service_v53is8o",
-        "template_ucyan7b",
+        "service_kmjspfs",
+        "template_cnvbt7a",
         templateParams,
-        "8OZCoqau-SPvE1yg6"
+        "jz12efdqMHvV8Q1in"
       )
       .then(
         function (response) {
